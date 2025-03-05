@@ -1,5 +1,5 @@
 ---
-title: About
+title: A propos
 logo: img/7cc68a58-0d1f-4d1e-918e-c5ceb9a4b998.webp
 ---
 
