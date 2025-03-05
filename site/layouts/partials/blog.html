@@ -1,19 +1,46 @@
 <div class="bg-off-white pv4">
-	<div class="ph3 mw7 center">
+  <div class="blog-container">
+    <h2 class="f2 b lh-title mb4 text-center">Latest Stories</h2>
 
-		<h2 class="f2 b lh-title mb3">Latest stories</h2>
+    <div class="blog-grid">
+      {{ range first 1 (where .Data.Pages "Type" "post") }}
+      <div class="featured-post">
+        {{ with .Resources.Get .Params.image }}
+        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="featured-post-image" />
+        {{ end }}
+        <div class="featured-post-content">
+          <h2 class="featured-post-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+          <p class="featured-post-excerpt">{{ .Description }}</p>
+          <div class="featured-post-meta">
+            <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+            <span>{{ .ReadingTime }} min read</span>
+          </div>
+          <a href="{{ .RelPermalink }}" class="btn mt3">Read More</a>
+        </div>
+      </div>
+      {{ end }} {{ range first 6 (after 1 (where .Data.Pages "Type" "post")) }}
+      <div class="blog-card">
+        {{ with .Resources.Get .Params.image }}
+        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="blog-card-image" />
+        {{ end }}
+        <div class="blog-card-content">
+          <h3 class="blog-card-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h3>
+          <p class="blog-card-excerpt">{{ .Description }}</p>
+          <div class="blog-card-meta">
+            <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+            <span>{{ .ReadingTime }} min read</span>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
 
-		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range first 4 (where .Data.Pages "Type" "post") }}
-				<div class="ph1-ns w-50-ns flex">
-					{{ .Render "li" }}
-				</div>
-			{{ end }}
-		</div>
-
-		<div class="tc">
-			<a href="/post" class="btn raise">Read more</a>
-		</div>
-
-	</div>
+    <div class="tc mt4">
+      <a href="/post" class="btn btn-outline">View All Posts</a>
+    </div>
+  </div>
 </div>

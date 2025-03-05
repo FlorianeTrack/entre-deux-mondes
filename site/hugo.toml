@@ -3,6 +3,7 @@ languageCode = "fr-fr"
 languageLang = "fr"
 title = "Entre deux mondes"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+paginate = 6
 
 [params]
 images = ["img/og-image.jpg"]
