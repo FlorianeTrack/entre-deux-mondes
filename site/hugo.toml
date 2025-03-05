@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "fr-fr"
+languageLang = "fr"
 title = "Entre deux mondes"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
