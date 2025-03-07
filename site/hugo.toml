@@ -7,3 +7,6 @@ paginate = 6
 
 [params]
 images = ["img/7cc68a58-0d1f-4d1e-918e-c5ceb9a4b998.webp"]
+
+[permalinks]
+post = "/:title/"
