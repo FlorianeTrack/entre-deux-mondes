@@ -48,7 +48,7 @@ J’ai tenté d’expliquer à mes proches ce nouveau monde dans lequel je vivai
 
 Aujourd’hui, je ne me sens à ma place ni dans mon nouveau monde, ni dans l’ancien. **Être transfuge de classe, c’est vivre sur une ligne invisible, entre deux mondes qui ne se rejoignent jamais complètement.**
 
-Si je devais donner un conseil à quelqu’un vivant cette expérience, ce serait d’être lucide. Il faut comprendre que **les classes sociales existent**, que la bourgeoisie n’est pas un mythe, et que **l’ascension sociale ne se limite pas à l’aspect financier.** Elle touche aussi au c**apital culturel, aux relations, aux références communes**.
+Si je devais donner un conseil à quelqu’un vivant cette expérience, ce serait d’être lucide. Il faut comprendre que **les classes sociales existent**, que la bourgeoisie n’est pas un mythe, et que **l’ascension sociale ne se limite pas à l’aspect financier.** Elle touche aussi au **capital culturel, aux relations, aux références communes.**
 
 Ce blog est ma façon d’explorer ces différences, de partager des anecdotes et des réflexions. Il ne s’agit pas d’un jugement ou d’un mépris, mais d’**une simple constatation**.
 
