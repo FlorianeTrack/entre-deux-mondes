@@ -16,15 +16,11 @@ Même la météo m’a déstabilisée. À Paris, j’ai découvert un véritable
 
 Malgré mes préjugés sur le côté « hautain » ou « dangereux » de la capitale, j’étais aussi fascinée. Paris représentait l’avenir, la sécurité financière, des opportunités professionnelles incomparables. Ce que je n’avais pas anticipé, c’était la réaction de ceux que je laissais derrière moi.
 
-
-
 ## 2. Les premières fractures : tensions avec l’entourage
 
 Le décalage est d’abord apparu au travers de mon travail. À peine sortie de mon école d'ingénieurs, **je gagnais déjà davantage que mes parents** en fin de carrière. Mon père, qui avait accès à mes comptes bancaires, ne se privait pas pour lancer des remarques acerbes à chaque nouveau virement de salaire. **Mon diplôme est également devenu un sujet sensible.** J’y voyais une fierté ; eux semblaient ressentir autre chose : jalousie, incompréhension, voire ressentiment. Comme si cette réussite soulignait une injustice ou un échec.
 
-Petit à petit, j’ai compris que ce malaise n’était pas uniquement lié à l’argent ou au diplôme lui-même. Il s’agissait d’une fracture plus profonde, quelque chose que le sociologue Pierre Bourdieu décrirait comme un choc d’« habitus » : en changeant de milieu, j**’avais intégré de nouvelles façons de penser et de me comporter, tandis que mes parents restaient ancrés dans leur univers de références.** Notre incompréhension mutuelle se creusait.
-
-
+Petit à petit, j’ai compris que ce malaise n’était pas uniquement lié à l’argent ou au diplôme lui-même. Il s’agissait d’une fracture plus profonde, quelque chose que le sociologue Pierre Bourdieu décrirait comme un choc d’« habitus » : en changeant de milieu, **j’avais intégré de nouvelles façons de penser et de me comporter, tandis que mes parents restaient ancrés dans leur univers de références.** Notre incompréhension mutuelle se creusait.
 
 ## 3. Entrer dans une nouvelle classe : entre fascination et culpabilité
 
@@ -33,8 +29,6 @@ Malgré tout, j’essayais de rester fidèle à mon monde d’origine. Mais en m
 À vrai dire, ce malaise s’est étendu à beaucoup d’autres aspects de ma vie. Par exemple, je me garde toujours de mentionner le montant exact du logement que nous avons acheté à Paris, ou son prix au mètre carré. J’ai peur de mettre mes proches mal à l’aise, de paraître arrogante ou inconsciente des réalités financières. Alors, je minimise, je dévalorise, je prétends même que l’appartement n’est « pas si bien que ça », tout ça pour ne pas creuser davantage le fossé. **C’est une forme de culpabilité** : j’ai la chance d’avoir pu acheter un bien immobilier dans la capitale, mais j’ai honte d’en parler, comme si je trahissais mon milieu d’origine.
 
 En parallèle, je voyais bien que ma nouvelle vie déteignait peu à peu sur moi. Bernard Lahire parlerait d’« habitus clivé » pour décrire cette position ambiguë : **je m’adaptais à un nouveau monde, tout en conservant au fond de moi les valeurs et les réflexes de mon éducation**.
-
-
 
 ## 4. Les codes invisibles : la découverte d’un autre quotidien
 
@@ -49,8 +43,6 @@ Parfois, ce décalage se manifestait de façon encore plus subtile. Un jour, on 
 Au bout de deux ans à Paris, mon conjoint et moi sommes restés un long moment sans retourner dans ma région d’origine. Lors d’un week-end, nous avons enfin pris la route pour sortir de l'île de France… et j’ai été choquée. J’ai réalisé à quel point les gens que je croisais dans les régions de province me semblaient différents : leur façon de s’habiller, de parler, de manger, leurs voitures… Je ne me reconnaissais plus en eux, alors que j’étais « comme eux » quelques années auparavant. Pire encore, **j’ai senti en moi une forme de mépris involontaire qui m’a mise terriblement mal à l’aise**.
 
 J’ai tenté d’expliquer à mes proches ce nouveau monde dans lequel je vivais, sans succès. Certains refusaient de comprendre, d’autres me reprochaient de « me la jouer ». Avec mes parents, le fossé est devenu encore plus violent. Ils se servaient de la moindre occasion pour souligner que mon diplôme d'ingénieurs ne valait pas grand-chose. Las, j’ai fini par me taire. Je me suis rendu compte qu’on ne partageait plus tout à fait la même langue.
-
-
 
 ## Conclusion : vivre sur une frontière invisible
 
